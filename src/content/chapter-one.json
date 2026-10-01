@@ -1,0 +1,25 @@
+{
+  "series": "Bella Classica Series",
+  "novel": "The Ferrari Accord",
+  "chapterLabel": "Chapter One",
+  "chapterTitle": "",
+  "introduction": "Begin with the spoken chapter, or discover the song that accompanies it.",
+  "narration": {
+    "id": "narration",
+    "kind": "narration",
+    "title": "Chapter One",
+    "subtitle": "The Ferrari Accord · Chapter narration",
+    "url": "https://ik.imagekit.io/a7tech/CH1AUDIOFORWEB/Ch1fullaudio1.mp3",
+    "playLabel": "Listen to Chapter One"
+  },
+  "song": {
+    "id": "song",
+    "kind": "song",
+    "title": "Let the Bells Be Late",
+    "subtitle": "The companion song · Chapter One",
+    "url": "https://ik.imagekit.io/a7tech/CH1AUDIOFORWEB/Let%20the%20Bells%20Be%20Late.mp3?updatedAt=1790728292844",
+    "playLabel": "Play the Chapter Song"
+  },
+  "leadImage": null,
+  "images": []
+}
